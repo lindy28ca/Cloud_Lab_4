@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 789f17bb3c1cfc34c84e7b17f8e657d7, type: 3}
+  m_Script: {fileID: 11500000, guid: b719adc40b44b6e4a8139d1a3521c03f, type: 3}
   m_Name: Pregunta 1
   m_EditorClassIdentifier: 
-  pregunta: 
+  pregunta: "\"La l\xEDnea de Nazca se encuentra en la regi\xF3n de Piura.\""
   respuesta: 0
+  imagen: {fileID: -7531474401075292048, guid: b468b04779f549946a4eba697d43d907, type: 3}

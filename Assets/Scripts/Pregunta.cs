@@ -4,5 +4,6 @@ using UnityEngine;
 public class Pregunta : ScriptableObject
 {
     public string pregunta;
-    public bool respuesta; // true o false
+    public bool respuesta;
+    public Sprite imagen;
 }

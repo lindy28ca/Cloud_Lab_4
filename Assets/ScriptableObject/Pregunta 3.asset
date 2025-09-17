@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 789f17bb3c1cfc34c84e7b17f8e657d7, type: 3}
+  m_Script: {fileID: 11500000, guid: b719adc40b44b6e4a8139d1a3521c03f, type: 3}
   m_Name: Pregunta 3
   m_EditorClassIdentifier: 
-  pregunta: 
-  respuesta: 0
+  pregunta: "\"El Se\xF1or de Sip\xE1n fue un gobernante de la cultura Mochica.\""
+  respuesta: 1
+  imagen: {fileID: 6473931152955074769, guid: 1e1964fe8edda2e4f895334c4f98cd69, type: 3}

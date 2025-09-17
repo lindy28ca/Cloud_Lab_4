@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 789f17bb3c1cfc34c84e7b17f8e657d7, type: 3}
+  m_Script: {fileID: 11500000, guid: b719adc40b44b6e4a8139d1a3521c03f, type: 3}
   m_Name: Pregunta 2
   m_EditorClassIdentifier: 
-  pregunta: 
-  respuesta: 0
+  pregunta: "\"El lago Titicaca es el lago navegable m\xE1s alto del mundo.\""
+  respuesta: 1
+  imagen: {fileID: 9124532333609774412, guid: 0ef0c023d16531e478c4fd81dddf2d61, type: 3}

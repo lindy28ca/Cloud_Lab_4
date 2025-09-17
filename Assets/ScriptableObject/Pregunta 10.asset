@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b719adc40b44b6e4a8139d1a3521c03f, type: 3}
-  m_Name: Pregunta 4
+  m_Name: Pregunta 10
   m_EditorClassIdentifier: 
-  pregunta: "\"El r\xEDo Amazonas nace en el Per\xFA.\""
-  respuesta: 1
-  imagen: {fileID: -3333557077060367927, guid: 318cc5bb9b13a5b4091f78218e082413, type: 3}
+  pregunta: "\"La capital del Per\xFA es Cusco\""
+  respuesta: 0
+  imagen: {fileID: 4178662655464986511, guid: a02cc913f3e08ad46811c0a002b8d7fa, type: 3}

@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 789f17bb3c1cfc34c84e7b17f8e657d7, type: 3}
+  m_Script: {fileID: 11500000, guid: b719adc40b44b6e4a8139d1a3521c03f, type: 3}
   m_Name: Pregunta 7
   m_EditorClassIdentifier: 
-  pregunta: 
-  respuesta: 0
+  pregunta: "\"Caral es considerada la civilizaci\xF3n m\xE1s antigua de Am\xE9rica.\""
+  respuesta: 1
+  imagen: {fileID: -6010698836039953033, guid: 1de9624aadd35fa4da92ef1456d9f7b8, type: 3}
